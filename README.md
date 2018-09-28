@@ -72,3 +72,4 @@ as well as helper methods for cookie, localstorage and sessionstorage handling.
 Example tests that [do some stuff with cookies](https://github.com/christian-draeger/basic-selenium-project/blob/master/src/test/java/selenium/testcases/DoSomeThingWithCookiesIT.java)
 and [do some stuff with localstorage/sessionstorage](https://github.com/christian-draeger/basic-selenium-project/blob/master/src/test/java/selenium/testcases/DoSomeThingWithLocalStorageIT.java)
 are added and should show the the usage self-evident.
+# Basic
